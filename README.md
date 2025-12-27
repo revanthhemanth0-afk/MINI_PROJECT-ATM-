@@ -1,1 +1,2 @@
-# MINI_PROJECT-ATM-
+# MINI_PROJECT-ATM
+This ATM Mini Project is a beginner-friendly program developed using Python to simulate basic ATM functionalities. The project allows users to securely log in using a PIN and perform common banking operations such as checking account balance, depositing money, and withdrawing money. It is designed to help beginners understand core programming concepts including conditional statements, loops, functions, and user input handling. This project serves as a practical introduction to building real-world applications using simple and clear logic.
